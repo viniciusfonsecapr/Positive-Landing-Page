@@ -34,10 +34,10 @@ Positive Congratulations é uma pagina voltada para o publico que acessa um dete
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-Posite_landing-Page
+$ cd README
 
 # Vá para a pasta da aplicação Front End
 $ cd 
